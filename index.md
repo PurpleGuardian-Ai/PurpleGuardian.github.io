@@ -10,11 +10,22 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Project 1. Active Directory Project with Splunk
+## Project Overview
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This project demonstrates the design and configuration of a secure Active Directory environment in VirtualBox, leveraging Splunk for log analysis and telemetry. It also showcases penetration testing techniques and log monitoring for cybersecurity purposes.
 
-## Header 2
+## Project Objectives
+*   Simulate a network environment with Active Directory and Splunk.
+*   Deploy a penetration testing scenario using Kali Linux.
+*   Enable log monitoring and generate telemetry through Splunk Universal Forwarders.
+*   Analyze brute-force attack attempts on user accounts using Splunk.
+
+## Network Diagram
+1.  Splunk Server: Collects and visualizes log data from the network.
+2.  Active Directory Server: Hosts the AD domain and manages user authentication.
+3.  Windows 10 Target Machine: Serves as a client within the AD environment.
+4.  Kali Linux Attacker Machine: Used for penetration testing and attack simulation.
 
 > This is a blockquote following a header.
 >
