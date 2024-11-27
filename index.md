@@ -29,7 +29,7 @@ This project demonstrates the design and configuration of a secure Active Direct
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Diagram]([https://guides.github.com/activities/hello-world/branching.png](https://github.com/PurpleGuardian-Ai/PurpleGuardian.github.io/blob/09edea7adeb2c095e35709b2ec4dc3cecc12624c/Pics/Active%20Directory%20Diagram.jpg))
 
 > This is a blockquote following a header.
 >
