@@ -27,6 +27,10 @@ This project demonstrates the design and configuration of a secure Active Direct
 3.  Windows 10 Target Machine: Serves as a client within the AD environment.
 4.  Kali Linux Attacker Machine: Used for penetration testing and attack simulation.
 
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
