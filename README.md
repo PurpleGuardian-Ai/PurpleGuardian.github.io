@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="style.css">
 
 # 🛡️ Welcome to My Cybersecurity Portfolio
 
