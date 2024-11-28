@@ -58,14 +58,14 @@ Hi there! I'm [Your Name], an IT professional and aspiring cybersecurity expert 
 
 ## 📜 Certifications
 
-| Certification             | Issuer         | Verification Link       |
-|---------------------------|----------------|-------------------------|
-| CompTIA A+                | CompTIA        | [Verify](#)            |
-| CompTIA Network+          | CompTIA        | [Verify](#)            |
-| CompTIA Security+         | CompTIA        | [Verify](#)            |
-| CompTIA CySA+             | CompTIA        | [Verify](#)            |
-| Microsoft AZ-900          | Microsoft      | [Verify](#)            |
-| TryHackMe Certifications  | TryHackMe      | [Verify](#)            |
+ Certification              Issuer          Verification Link       
+-------------------------------------------------------------------
+ CompTIA A+                 CompTIA         [Verify](#)            
+ CompTIA Network+           CompTIA         [Verify](#)            
+ CompTIA Security+          CompTIA         [Verify](#)            
+ CompTIA CySA+              CompTIA         [Verify](#)            
+ Microsoft AZ-900           Microsoft       [Verify](#)            
+ TryHackMe Certifications   TryHackMe       [Verify](#)            
 
 ---
 
