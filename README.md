@@ -2,7 +2,7 @@
 
 # 🛡️ Welcome to My Cybersecurity Portfolio
 
-Hi there! I'm [Your Name], an IT professional and aspiring cybersecurity expert passionate about securing systems, defending networks, and uncovering vulnerabilities. This GitHub page is a reflection of my journey in the cybersecurity world, featuring projects, certifications, and milestones as I develop my skills to tackle modern security challenges.
+Hi there! I'm Nigel, an IT professional and aspiring cybersecurity expert passionate about securing systems, defending networks, and uncovering vulnerabilities. This GitHub page is a reflection of my journey in the cybersecurity world, featuring projects, certifications, and milestones as I develop my skills to tackle modern security challenges.
 
 ---
 
@@ -80,9 +80,9 @@ I’m continuously learning and growing my skills in:
 
 ## 📬 Get in Touch
 Let’s connect and talk about cybersecurity!  
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **GitHub**: [Your GitHub Username]  
+- **Email**: nigel.d.velasquez@outlook.com  
+- **LinkedIn**: https://www.linkedin.com/in/nigel-velasquez-324672181/ 
+- **GitHub**: https://github.com/PurpleGuardian-Ai  
 
 ---
 
