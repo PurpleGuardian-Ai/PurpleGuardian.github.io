@@ -61,11 +61,11 @@ Hi there! I'm [Your Name], an IT professional and aspiring cybersecurity expert 
  Certification                        Verification Link       
 -------------------------------------------------------------------
  CompTIA A+                          [Verify](https://www.credly.com/badges/ea4f7582-faf8-46d4-a005-2367395f0a5f)            
- CompTIA Network+                    [Verify](#)            
- CompTIA Security+                   [Verify](#)            
- CompTIA CySA+                       [Verify](#)            
- Microsoft AZ-900                  [Verify](#)            
- TryHackMe Certifications          [Verify](#)            
+ CompTIA Network+                    [Verify](https://www.credly.com/badges/9efa6aea-5ed4-4356-a585-b2e48390f766)            
+ CompTIA Security+                   [Verify](https://www.credly.com/badges/2942a1cf-3284-4278-8216-2e1594871b83)            
+ CompTIA CySA+                       [Verify](https://www.credly.com/badges/b02d3b90-6e3a-44d3-8e7b-fc96b78cf862)            
+ Microsoft AZ-900                  [Verify](https://learn.microsoft.com/en-us/users/04378874/credentials/957e484d34e8bf76?ref=https%3A%2F%2Fwww.linkedin.com%2F)            
+ TryHackMe Certifications          [Verify](https://tryhackme.com/r/p/NigelV.95)            
 
 ---
 
