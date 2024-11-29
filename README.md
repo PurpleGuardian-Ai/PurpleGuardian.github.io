@@ -60,7 +60,7 @@ Hi there! I'm [Your Name], an IT professional and aspiring cybersecurity expert 
 
  Certification                        Verification Link       
 -------------------------------------------------------------------
- CompTIA A+                          [Verify](#)            
+ CompTIA A+                          [Verify](https://www.credly.com/badges/ea4f7582-faf8-46d4-a005-2367395f0a5f)            
  CompTIA Network+                    [Verify](#)            
  CompTIA Security+                   [Verify](#)            
  CompTIA CySA+                       [Verify](#)            
